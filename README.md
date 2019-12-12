@@ -1,0 +1,2 @@
+# smk
+Sekolah menengah kejuruan
